@@ -1,9 +1,0 @@
-CREATE TABLE items (
-  id INT AUTO_INCREMENT PRIMARY KEY,
-  name VARCHAR(50) NOT NULL,
-  email VARCHAR(50) NOT NULL,
-  message TEXT NULL,
-  created_at TIMESTAMP DEFAULT CURRENT_TIMESTAMP
-);
-Footer
-© 2023 GitHub, Inc.
